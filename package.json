@@ -18,7 +18,7 @@
     "license": "MIT",
     "dependencies": {
         "node-static": "~0.7.1",
-        "socket.io": "~0.9.16",
+        "socket.io": "~2.4.0",
         "express": "~3.4.0",
         "ejs": "~1.0.0"
     }
